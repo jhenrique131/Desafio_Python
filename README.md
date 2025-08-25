@@ -27,19 +27,29 @@ Quantidade de linhas **(QTD_ROWS)**
 Proporção média de valores nulos **(NULL_RATIO_MEDIA)**
 
 .
-├── notebooks/
-│   ├── 01_bronze_ingestao.ipynb
-│   ├── 02_silver_tratamento.ipynb
-│   ├── 03_gold_enriquecimento.ipynb
-│   ├── 04_data_quality_report.ipynb
+── **notebooks/**
+
+├── 01_bronze_ingestao.ipynb
+│   
+├── 02_silver_tratamento.ipynb
+│   
+├── 03_gold_enriquecimento.ipynb
+│   
+├── 04_data_quality_report.ipynb
 │
-├── tables/
-│   ├── workspace.bronze.*
-│   ├── workspace.silver.*
-│   ├── workspace.gold.*
-│   ├── workspace.quality.data_quality_report
+
+├── **tables/**
+│   
+├── workspace.bronze.*
+│   
+├── workspace.silver.*
+│   
+├── workspace.gold.*
+│   
+├── workspace.quality.data_quality_report
 │
-├── README.md
+
+├── **README.md**
 
 ## Tecnologias Usadas
 
